@@ -1,5 +1,18 @@
-under construction!
+## hello !!
 
-4th-yr CSE @ uc merced, expected grad dec 24
-- currently working on: ml-based digital twins
-- i like: continual learning, foundation models (aurora enthusiast), ethical ai
+i try to build things sometimes!
+recent uc merced graduate (bs computer science & engr, dec 2024)
+
+### interests
+* machine learning (ML-based digital twins, foundation models, ethical AI, continual learning)
+* high-performance computing
+* computer vision
+
+### working on
+* creative writing website!! :)
+* leveling up python and full stack skills......
+
+### worked on
+* undergraduate research intern at padsys lab (review: “A Definition and Taxonomy of Digital Twins: Case Studies with Machine Learning and Scientific Applications”)
+* solving problems in trials by fire (see: hackathons)
+* organizer at gdg on campus: ucm
