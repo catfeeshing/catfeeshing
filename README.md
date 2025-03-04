@@ -1,7 +1,7 @@
 ## hello !!
 
 i try to build things sometimes!
-recent uc merced graduate (bs computer science & engr, dec 2024)
+recent ucm graduate (bs computer science & engr, dec 2024)
 
 ### interests
 * machine learning (ML-based digital twins, foundation models, ethical AI, continual learning)
