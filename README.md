@@ -17,4 +17,4 @@ recent ucm graduate (bs computer science & engr, dec 2024)
 * solving problems in trials by fire (see: hackathons)
 * organizer at gdg on campus: ucm
 
-[resume]([https://www.youtube.com/watch?v=E9eHefMpVnM](https://docs.google.com/document/d/1rckBjjSny3w_Uc2yKcwaBlv3BxoNwNyk-F16s_kGVh0/edit?usp=sharing))
+[resume](https://docs.google.com/document/d/1rckBjjSny3w_Uc2yKcwaBlv3BxoNwNyk-F16s_kGVh0/edit?usp=sharing)
