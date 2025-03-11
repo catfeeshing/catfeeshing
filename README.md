@@ -9,7 +9,8 @@ recent ucm graduate (bs computer science & engr, dec 2024)
 * computer vision
 
 ### working on
-* creative writing website!! :)
+* creative writing website!! :) for sharing original writing, ocs, and other original content
+* shuffld: listen to new music with strangers by going gambling | coming soon..!
 * leveling up python and full stack skills......
 
 ### worked on
