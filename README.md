@@ -1,6 +1,6 @@
 ## hello !!
 
-i try to build things sometimes!
+i try to build things that i love! :D
 recent ucm graduate (bs computer science & engr, dec 2024)
 
 ### interests
