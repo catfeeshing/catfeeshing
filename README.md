@@ -1,14 +1,6 @@
 ## hello !!
 
 i try to build things that i love! :D
-recent ucm graduate (bs computer science & engr, dec 2024)
-
-### interests
-* machine learning (ML-based digital twins, foundation models, ethical AI, continual learning)
-* full-stack
-* computer vision
-* hpc
-* project management
 
 ### working on
 * unshelve: a better creative writing site :) for sharing original writing, ocs, and other original content
